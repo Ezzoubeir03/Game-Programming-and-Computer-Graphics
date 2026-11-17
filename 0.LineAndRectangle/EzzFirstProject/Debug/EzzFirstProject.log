@@ -1,0 +1,22 @@
+﻿Build started 11/12/2026 8:51:53 PM.
+     1>Project "D:\vsProjection\EzzFirstProject\EzzFirstProject\EzzFirstProject.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\EzzFirstProject.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MyGameWindow.cpp
+         Skipping... (no relevant changes detected)
+         MyGameWindow.cpp
+       Link:
+         d:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vsProjection\EzzFirstProject\Debug\EzzFirstProject.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\EzzFirstProject.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\vsProjection\EzzFirstProject\Debug\EzzFirstProject.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vsProjection\EzzFirstProject\Debug\EzzFirstProject.lib" /MACHINE:X86 Debug\MyGameWindow.obj
+         LINK : D:\vsProjection\EzzFirstProject\Debug\EzzFirstProject.exe not found or not built by the last incremental link; performing full link
+         EzzFirstProject.vcxproj -> D:\vsProjection\EzzFirstProject\Debug\EzzFirstProject.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\vsProjection\EzzFirstProject\Debug\EzzFirstProject.exe;#1" /manifest Debug\EzzFirstProject.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\EzzFirstProject.unsuccessfulbuild".
+         Touching "Debug\EzzFirstProject.lastbuildstate".
+     1>Done Building Project "D:\vsProjection\EzzFirstProject\EzzFirstProject\EzzFirstProject.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.55

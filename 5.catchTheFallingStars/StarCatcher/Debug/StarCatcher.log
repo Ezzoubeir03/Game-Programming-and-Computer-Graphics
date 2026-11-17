@@ -1,0 +1,21 @@
+﻿Build started 11/17/2026 12:25:42 AM.
+     1>Project "D:\Game_Programming_Design-Computer_Graphics\5.catchTheFallingStars\StarCatcher\StarCatcher.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\StarCatcher.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StarCatcher.cpp
+         StarCatcher.cpp
+       Link:
+         d:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Game_Programming_Design-Computer_Graphics\5.catchTheFallingStars\Debug\StarCatcher.exe" /NOLOGO winmm.lib msimg32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\StarCatcher.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Game_Programming_Design-Computer_Graphics\5.catchTheFallingStars\Debug\StarCatcher.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Game_Programming_Design-Computer_Graphics\5.catchTheFallingStars\Debug\StarCatcher.lib" /MACHINE:X86 Debug\StarCatcher.obj
+         LINK : D:\Game_Programming_Design-Computer_Graphics\5.catchTheFallingStars\Debug\StarCatcher.exe not found or not built by the last incremental link; performing full link
+         StarCatcher.vcxproj -> D:\Game_Programming_Design-Computer_Graphics\5.catchTheFallingStars\Debug\StarCatcher.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Game_Programming_Design-Computer_Graphics\5.catchTheFallingStars\Debug\StarCatcher.exe;#1" /manifest Debug\StarCatcher.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\StarCatcher.unsuccessfulbuild".
+         Touching "Debug\StarCatcher.lastbuildstate".
+     1>Done Building Project "D:\Game_Programming_Design-Computer_Graphics\5.catchTheFallingStars\StarCatcher\StarCatcher.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.44

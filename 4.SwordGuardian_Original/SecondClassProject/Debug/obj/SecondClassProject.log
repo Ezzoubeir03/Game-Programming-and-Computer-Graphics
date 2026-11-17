@@ -1,0 +1,14 @@
+﻿Build started 11/17/2026 12:25:14 AM.
+     1>Project "D:\Game_Programming_Design-Computer_Graphics\4.SwordGuardian_Original\SecondClassProject\SecondClassProject.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "D:\Game_Programming_Design-Computer_Graphics\4.SwordGuardian_Original\SecondClassProject\Debug\obj\SecondClassProject.unsuccessfulbuild".
+       ClCompile:
+         d:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\Game_Programming_Design-Computer_Graphics\4.SwordGuardian_Original\SecondClassProject\Debug\obj\\" /Fd"D:\Game_Programming_Design-Computer_Graphics\4.SwordGuardian_Original\SecondClassProject\Debug\obj\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Animation.cpp /D_CRT_SECURE_NO_WARNINGS 
+         Animation.cpp
+     1>d:\game_programming_design-computer_graphics\4.swordguardian_original\secondclassproject\animation.cpp(296): error C2589: '(' : illegal token on right side of '::'
+     1>d:\game_programming_design-computer_graphics\4.swordguardian_original\secondclassproject\animation.cpp(296): error C2059: syntax error : '::'
+     1>Done Building Project "D:\Game_Programming_Design-Computer_Graphics\4.SwordGuardian_Original\SecondClassProject\SecondClassProject.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.37

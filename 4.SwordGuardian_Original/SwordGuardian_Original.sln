@@ -1,0 +1,16 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwordGuardian_Original", "SwordGuardian_Original.vcxproj", "{D18B6E44-68C9-4D71-A65B-38E2B6B2D911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18B6E44-68C9-4D71-A65B-38E2B6B2D911}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D18B6E44-68C9-4D71-A65B-38E2B6B2D911}.Debug|Win32.Build.0 = Debug|Win32
+		{D18B6E44-68C9-4D71-A65B-38E2B6B2D911}.Release|Win32.ActiveCfg = Release|Win32
+		{D18B6E44-68C9-4D71-A65B-38E2B6B2D911}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+EndGlobal

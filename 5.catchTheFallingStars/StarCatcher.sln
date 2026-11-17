@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StarCatcher", "StarCatcher\StarCatcher.vcxproj", "{A2CC4A86-9A2E-4542-8F70-F4A0E80FB121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CC4A86-9A2E-4542-8F70-F4A0E80FB121}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2CC4A86-9A2E-4542-8F70-F4A0E80FB121}.Debug|Win32.Build.0 = Debug|Win32
+		{A2CC4A86-9A2E-4542-8F70-F4A0E80FB121}.Release|Win32.ActiveCfg = Release|Win32
+		{A2CC4A86-9A2E-4542-8F70-F4A0E80FB121}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
